@@ -27,7 +27,7 @@ const Header = ({currentUser}) => (
 );
 //this nameing can be anything but mapStateToProps is standard with redux codebases
 const mapStateToProps = (state) => ({
-    currentUser: state.currentUser
+    currentUser: state.user.currentUser
 });
 
 export default connect(mapStateToProps)(Header);
