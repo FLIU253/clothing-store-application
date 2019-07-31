@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+demo link: https://clothing-store-app.herokuapp.com/
 
 ## Available Scripts
 
