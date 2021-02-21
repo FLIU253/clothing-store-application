@@ -1,5 +1,3 @@
-# demo link: https://clothing-store-app.herokuapp.com/
-
 ## Why I built this 
 this was built as a learning opprotunity for me and it was used for me to further improve my Reactjs skills. 
 
